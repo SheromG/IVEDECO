@@ -1,10 +1,10 @@
 # IVEDECO
 Undergraduate Capstone
 
-Group Members:
+##Group Members:
 
-David Sherom Granada
+####David Sherom Granada
 
-Mariel Gabasa
+####Mariel Gabasa
 
-Alexandra Ong
+####Alexandra Ong
